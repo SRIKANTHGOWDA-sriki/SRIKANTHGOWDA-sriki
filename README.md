@@ -1,8 +1,8 @@
-<img align="right" src="https://ibb.co/YfFL289">
+
 <h1 align="center">Hi 👋, I'm Srikanth Gowda R</h1>
 <h3 align="center">A passionate developer looking to explore new things!</h3>
-<img align="right" alt="coding" width="400" src="https://ibb.co/WkkDXwv">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthgowda-sriki&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthgowda-sriki" /> </p>
+
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
