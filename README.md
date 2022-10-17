@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **srikanthgowda2163@gmail.com**
 
-- ⚡ Fun fact **i like to read books when i'm not reading**
+- ⚡ other interests **i like to read books when i'm not reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
