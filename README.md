@@ -1,4 +1,4 @@
-<img src="https://iili.io/taaXpt.png" alt="taaXpt.png" border="0" height="100" width="200">
+<img src="https://iili.io/taaXpt.png" alt="taaXpt.png" border="0" height="100" width="100">
 <h1 align="center">Hi 👋, I'm Srikanth Gowda R</h1>
 <h3 align="center">A passionate developer looking to explore new things!</h3>
 
