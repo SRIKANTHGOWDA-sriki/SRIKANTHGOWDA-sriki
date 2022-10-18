@@ -1,4 +1,4 @@
-<a href="https://freeimage.host/"><img src="https://iili.io/taaXpt.png" alt="taaXpt.png" border="0"></a>
+<img src="https://iili.io/taaXpt.png" alt="taaXpt.png" border="0" height:200 width:200>
 <h1 align="center">Hi 👋, I'm Srikanth Gowda R</h1>
 <h3 align="center">A passionate developer looking to explore new things!</h3>
 
