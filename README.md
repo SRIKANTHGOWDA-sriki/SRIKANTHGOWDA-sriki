@@ -4,13 +4,13 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Pyton and machine learning**
 
 - 💬 Ask me about **c,c++,java,mysql,html,css**
 
 - 📫 How to reach me **srikanthgowda2163@gmail.com**
 
-- ⚡ other interests **i like to read books when i'm not reading**
+- ⚡ other interests **i like to read books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
