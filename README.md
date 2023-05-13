@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Pyton and machine learning**
+- 🌱 I’m currently learning **Python and machine learning**
 
 - 💬 Ask me about **c,c++,java,mysql,html,css**
 
